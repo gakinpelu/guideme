@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head> 
+    <title>Welcome to Guide Me, your connection to local tour guides</title>
+    <link rel="stylesheet" href="citybuddy.css">
+    <link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+    
+</head>
+
+
+<body>
+<div class="container">
+    <div class="item1"><a href="#">Login</div></a>
+    <div class="item2"><a href="aboutguideme.html">About</div></a>
+    <div class="item2"> <a href="findguideme.html">Find a Guide</div></a>
+    <div class="item2"> <a href="contactguideme.html%20">Contact</div></a>
+    
+
+</div>
+    
+    
+    
+<div class="mainbody">
+<h1 class="welcome"> Welcome to Guide Me! </h1>
+</div>
+      
+    
+<div class="mainbody2">
+<h2 class="welcome2"id="tagline">Your onine connection to personal guides across the globe </h2>
+</div>
+
+<h1>Explore. What makes Guide Me different? </h1>
+<p>What makes CityBuddy unique? The answer is easy...YOU! We all have unique ways in which we want to explore our world. Some peop;e like to hit up the tourist spots; others like to hang with the locals and get an inside feel of their destination. Some people like to do both. If you like a more intimate experience during your travels, you've come to the right place.</p>
+
+
+<h2>Choose your tour guide</h2>
+<p>Enter information about yourself. Then select from a few parameters about who you'd like to help you get to know your neew destination. All members have been fully vetted with background checks and extensive questionaires, so you will have peoace of mind when meeting new peeps!</p>
+
+
+</div>
+
+</body>
+
+</html>

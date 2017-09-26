@@ -1,0 +1,95 @@
+
+p,
+h1,
+h2,
+h3,
+.container, .item {
+    font-family: 'Questrial', sans-serif;
+    color: white;
+    text-shadow: -1px 1px black;
+}
+
+body {
+    background-image: url(e77c766758c8ecd25ccd0457f51e30ee--vintage-luggage-vintage-suitcases.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    margin-top: 30px;
+    
+   
+}
+
+.item {
+    padding: 10px;   
+}
+
+.mainbody,
+.mainbody2{
+    display: flex;
+    justify-content: center;
+    border: 
+}
+
+.mainbody2 {
+    font-size: 1.5em:
+}
+
+.welcome {
+    padding: 5px;
+    border: solid white 3px ;
+    border-radius: 5px;
+    font-size: 4em;
+}
+
+.item1{
+    background-color: forestgreen;
+    padding:10px;
+    border: solid white 2px;
+    border-radius: 2px;
+    width: 100px;
+    font-size: 1.5em;
+    text-align: center
+    
+}
+
+.item2 {
+    
+    padding:10px;
+    width: 200px;
+    font-size: 2em;
+    text-align: center;
+    
+}
+
+a:link {
+    text-decoration: none;
+ 
+}
+
+a {
+     color: white;     
+}
+
+a:hover {
+    color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
